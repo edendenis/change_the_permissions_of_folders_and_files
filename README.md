@@ -9,13 +9,6 @@ Neste documento estão contidos os principais comandos e configurações para co
 _This document contains the main commands and settings for configuring/installing/using the `alterar as permissões de pastas e arquivos` on `Linux Ubuntu`._
 
 
-## Revisão(ões)/Versão(ões)
-
-| Revisão número | Data da revisão | Descrição da revisão                                    | Autor da revisão                                |
-|:--------------:|:---------------:|:--------------------------------------------------------|:------------------------------------------------|
-| 0              | 30/04/2024      | <ul><li>Revisão inicial/criação do documento.</li></ul> | <ul><li>Eden Denis F. da S. L. Santos</li></ul> |
-
-
 ## Descrição [2]
 
 ### `alterar as permissões de pastas e arquivos`
